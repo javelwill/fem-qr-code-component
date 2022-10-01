@@ -10,7 +10,7 @@ body {
 
 .card {
   background: #ffffff;
-  width: 320px;
+  max-width: 320px;
   padding: 1em;
   border-radius: 1.25em;
 }
